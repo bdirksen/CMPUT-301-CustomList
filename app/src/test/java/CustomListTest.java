@@ -39,4 +39,5 @@ public class CustomListTest {
         list.delete(city);
         assertFalse(list.hasCity(city));
     }
+
 }
